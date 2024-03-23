@@ -1,0 +1,9 @@
+-r test.txt
+-r node.txt
+-r dev.txt
+-r deps/pyright.txt
+-r deps/ruff.txt
+-r deps/mypy.txt
+-r deps/pydantic.txt
+-r ../../databases/requirements.txt
+slotscheck==0.17.3

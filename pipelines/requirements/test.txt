@@ -1,0 +1,9 @@
+-r coverage.txt
+-r deps/pytest-asyncio.txt
+-r deps/pytest.txt
+-r deps/pytest-mock.txt
+-r deps/syrupy.txt
+pytest-sugar
+mock==5.1.0
+pytest-subprocess==1.5.0
+inline-snapshot==0.6.1

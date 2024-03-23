@@ -1,0 +1,1 @@
+-r ../../../pipelines/requirements/pyright.txt

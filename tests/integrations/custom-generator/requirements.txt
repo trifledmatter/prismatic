@@ -1,0 +1,5 @@
+# TODO: this should not be required
+-r ../../../pipelines/requirements/deps/pytest-asyncio.txt
+
+-r ../../../pipelines/requirements/pyright.txt
+-r ../../../pipelines/requirements/pytest.txt

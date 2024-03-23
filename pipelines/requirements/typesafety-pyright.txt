@@ -1,0 +1,3 @@
+-r test.txt
+-r deps/pyright.txt
+pytest-pyright==0.0.6
